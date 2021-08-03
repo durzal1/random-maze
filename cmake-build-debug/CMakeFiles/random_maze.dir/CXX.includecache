@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/random maze/creationDFS.h
+SDL2/SDL.h
+-
+draw.h
+C:/Users/zacky/Desktop/Coding/c++/graph algs/random maze/draw.h
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/random maze/draw.h
+
+C:/Users/zacky/Desktop/Coding/c++/graph algs/random maze/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+creationDFS.h
+C:/Users/zacky/Desktop/Coding/c++/graph algs/random maze/creationDFS.h
+ctime
+-
+SDL2/SDL.h
+-
+
